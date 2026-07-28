@@ -1,54 +1,127 @@
-# ANTHER-X
+<div align="center">
 
-Desarrollador de software | C++ | Embedded | ESP32 | Robótica
+  # 👋 ¡Hola! Soy ANTHER-X
 
----
+  ### 🤖 Desarrollador de Software | C++ | Embedded | ESP32 | Robótica
 
-## 👋 Sobre mí
-Trabajo principalmente con C++ en sistemas de bajo nivel.
-Desarrollo proyectos en microcontroladores (ESP32, Arduino),
-robótica y aplicaciones de escritorio.
+  <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&duration=4000&pause=800&color=7B56F7&center=true&width=435&lines=Sistemas+Embebidos;Desarrollo+Desktop+C%23;Rob%C3%B3tica" alt="Typing SVG" />
 
----
-
-## 🧠 Áreas de interés
-- Programación de Sistemas embebidos
-- Aplicaciones Desktop
-- Robótica basica
-- Bases de datos locales (SQLite, SQLCipher)
+</div>
 
 ---
 
-## 🛠 Tecnologías
-- **Lenguajes:** C, C++, C#  
-- **Embedded:** ESP32, Arduino  
-- **Desktop:** WinAPI, WPF, WinForms  
-- **Bases de datos:** SQLite, SQLCipher  
-- **Herramientas:** Git, VSCode, Visual Studio
+### 🧠 Sobre mí
+
+Trabajo principalmente con **C++** enfocándome en sistemas de bajo nivel, desarrollo para microcontroladores (ESP32, Arduino), robótica y aplicaciones de escritorio.
+
+- 🔭 **Proyectos actuales:** Desarrollo de librerías para microcontroladores y software para control robótico.
+- 💾 **Enfoque actual:** Persistencia con bases de datos locales (`SQLite`, `SQLCipher`) y desarrollo de escritorio (`C#`,`WPF`)
+- ⚡ **Áreas de interés:** Programación de sistemas embebidos, aplicaciones Desktop con WPF y robótica aplicada.
 
 ---
 
-## 📂 Proyectos destacados
-- Librerías de robots Arduino, ESP32
-- Librerías propias en C++
+### 🚀 Proyectos Destacados
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/ANTHER-X/ROBOTS">ROBOTS</a> &nbsp;<sub>🌐 Open Source</sub></h3>
+      <p>Librería modular en C++ para gestionar robots básicos con Arduino o ESP32, creada originalmente para apoyar al club de robótica del COBAEM, plantel Tarimbaro. Compatible con Arduino IDE y PlatformIO.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+        <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
+        <img src="https://img.shields.io/github/stars/ANTHER-X/ROBOTS?style=flat-square&color=7B56F7" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎮 <a href="https://github.com/ANTHER-X/RTandGS">RTandGS</a> &nbsp;<sub>🌐 Open Source</sub></h3>
+      <p><b>Run Task and Game System:</b> sistema de tareas no bloqueante para Arduino Nano, con un motor gráfico opcional (sprites, colisiones, sonido por buzzer) para crear sistemas o juegos sencillos, vienen ejemplos como Snake y The Space Journey.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
+        <img src="https://img.shields.io/github/stars/ANTHER-X/RTandGS?style=flat-square&color=7B56F7" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 Gestor de Alumnos &nbsp;<sub>🔒 Privado</sub></h3>
+      <p>Aplicación de escritorio para la administración de perfiles de alumnos, con soporte de imágenes y exportación a Excel. Persistencia en SQLite vía Entity Framework Core.</p>
+      <p><i>Estado: En desarrollo</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏫 Gestor Escolar &nbsp;<sub>🔒 Privado</sub></h3>
+      <p>Sistema multicapa (Core, GUI, Terminal) para gestión de usuarios y grupos escolares, con exportación a Excel, CSV, TXT y JSON. Persistencia en SQLite vía Entity Framework Core.</p>
+      <p><i>Estado: En desarrollo</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📫 Contacto
-- GitHub: https://github.com/ANTHER-X
-- Instagram: https://www.instagram.com/fernandocisneroslemus
+### 🛠️ Tecnologías y Herramientas
 
-<!--
-**ANTHER-X/ANTHER-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Lenguajes & Embebidos
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-Here are some ideas to get you started:
+#### Desktop & Bases de Datos
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Herramientas
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="https://github-stats-extended.vercel.app/api?username=ANTHER-X&rank_icon=github&show_icons=true&theme=tokyonight" height="165" />
+      </td>
+      <td width="20"></td> <!-- Espaciador horizontal -->
+      <td align="center">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ANTHER-X&layout=compact&langs_count=4&theme=tokyonight" height="165" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📫 Conéctate conmigo
+
+<div align="center">
+
+  &nbsp;
+  <a href="mailto:fernandocisneroslemus@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/fernandocisneroslemus">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+</div>
