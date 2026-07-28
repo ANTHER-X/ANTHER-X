@@ -15,8 +15,9 @@
 Trabajo principalmente con **C++** enfocándome en sistemas de bajo nivel, desarrollo para microcontroladores (ESP32, Arduino), robótica y aplicaciones de escritorio.
 
 - 🔭 **Proyectos actuales:** Desarrollo de librerías para microcontroladores y software para control robótico.
-- 💾 **Enfoque actual:** Persistencia con bases de datos locales (`SQLite`, `SQLCipher`) y desarrollo de escritorio (`C#`,`WPF`)
+- 💾 **Enfoque actual:** Persistencia con bases de datos locales (`SQLite`, `SQLCipher`)
 - ⚡ **Áreas de interés:** Programación de sistemas embebidos, aplicaciones Desktop con WPF y robótica aplicada.
+- 🖥️ **Extra:** En casa corro mi propio servidor casero (self-hosting de servicios domésticos y un par de servidores de videojuegos) — me gusta el tema de servidores.
 
 ---
 
@@ -47,28 +48,32 @@ Trabajo principalmente con **C++** enfocándome en sistemas de bajo nivel, desar
   <tr>
     <td width="50%" valign="top">
       <h3>🎓 Gestor de Alumnos &nbsp;<sub>🔒 Privado</sub></h3>
-      <p>Aplicación de escritorio para la administración de perfiles de alumnos, con soporte de imágenes y exportación a Excel. Persistencia en SQLite vía Entity Framework Core.</p>
-      <p><i>Estado: En desarrollo</i></p>
+      <p>Aplicación de escritorio para la administración de perfiles de alumnos, con soporte de imágenes y exportación a Excel. Persistencia en SQLite + SQLCipher vía Entity Framework Core.</p>
+      <p><i>Estado: En desarrollo — fase final, ajustando detalles</i></p>
       <p>
         <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" />
         <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
         <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/ClosedXML-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>🏫 Gestor Escolar &nbsp;<sub>🔒 Privado</sub></h3>
-      <p>Sistema multicapa (Core, GUI, Terminal) para gestión de usuarios y grupos escolares, con exportación a Excel, CSV, TXT y JSON. Persistencia en SQLite vía Entity Framework Core.</p>
-      <p><i>Estado: En desarrollo</i></p>
+      <p>Expansión multicapa (Core, GUI, CLI) del proyecto anterior, para gestión completa de usuarios y grupos escolares, con exportación a Excel, CSV, TXT y JSON. Misma base de persistencia: SQLite + SQLCipher vía Entity Framework Core.</p>
+      <p><i>Estado: En desarrollo — arquitectura ampliada en construcción</i></p>
       <p>
         <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" />
         <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
         <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/ClosedXML-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
       </p>
     </td>
   </tr>
 </table>
+
+<p align="center"><sub>💡 Ambos proyectos escolares comparten la misma capa de persistencia (SQLite + SQLCipher vía EF Core) y usan ClosedXML para exportación a Excel — el segundo es una enorme expansión del primero, un sistema completo, no un duplicado, toma de idea base al primero.</sub></p>
 
 ---
 
@@ -89,7 +94,9 @@ Trabajo principalmente con **C++** enfocándome en sistemas de bajo nivel, desar
 #### Herramientas
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-D6CAD9?style=for-the-badge&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-33ADDE?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 ---
 
@@ -115,6 +122,9 @@ Trabajo principalmente con **C++** enfocándome en sistemas de bajo nivel, desar
 
 <div align="center">
 
+  <a href="https://github.com/ANTHER-X">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   &nbsp;
   <a href="mailto:fernandocisneroslemus@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
